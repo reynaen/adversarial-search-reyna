@@ -10,8 +10,6 @@
 
 🔗 **[Live Demo](https://namaanda.my.id)** *(ganti dengan URL deployment Anda)*
 
-![screenshot](docs/screenshot.png)
-
 ---
 
 ## ✨ Fitur
@@ -77,8 +75,8 @@ adversarial-search-[nim]/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/adversarial-search-[nim].git
-cd adversarial-search-[nim]
+git clone https://github.com/username/adversarial-search-reyna.git
+cd adversarial-search-reyna
 ```
 
 ### 2. Install dependencies
@@ -148,6 +146,5 @@ Response:
 
 ## 👤 Author
 
-**[Nama Anda]** — [NIM] — [Kelas]  
-📧 [email]  
-🔗 [LinkedIn](https://linkedin.com/in/username)
+**Reyna Noernaila** — 301240033 — 4A   
+🔗 [LinkedIn](https://www.linkedin.com/in/reyna-noernaila-1b4827414/)
