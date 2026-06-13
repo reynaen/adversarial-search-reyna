@@ -8,7 +8,7 @@
 
 ## 🎮 Demo
 
-🔗 **[Live Demo](https://namaanda.my.id)** *(ganti dengan URL deployment Anda)*
+🔗 **[Live Demo](https://www.adversarial-search-reyna.my.id/)**
 
 ---
 
